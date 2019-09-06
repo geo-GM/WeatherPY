@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+    <word id = "1">
+        <english>developer</english>
+        <german>der Entwickler</german>
+    </word>
+    <word id = "2">
+        <english>homework</english>
+        <german>die Hausaufgaben</german>
+    </word>
+    <word id = "3">
+        <english>learning</english>
+        <german>lernen</german>
+    </word>
+    <word id = "4">
+        <english>assignment</english>
+        <german>die Zuordnung</german>
+    </word>
+    <word id = "5">
+        <english>web</english>
+        <german>das Netz</german>
+    </word>
+    
+</words>
